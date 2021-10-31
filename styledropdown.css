@@ -9,3 +9,8 @@ list-style: none;
     visibility: hidden;
     width: 150px;
 }
+
+#menu ul li:hover ul, #menu ul a:hover ul{
+    visibility:visible;
+ 
+}
