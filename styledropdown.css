@@ -14,3 +14,30 @@ list-style: none;
     visibility:visible;
  
 }
+
+#menu li a{
+    height: 30px;
+    width: 150px;
+    display: block;
+    color: black;
+    border: 1px solid #000000;
+    background-color: #dfdfdf;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#menu li a{
+    color: black;
+    background-color: black;
+    font: 20px cambria;
+    border-left: 1px solid black ;
+    border-right: 1px solid black;
+    text-decoration: none;
+}
+
+#menu ul li a:hover{
+    color: white;
+    background-color: black;
+    text-shadow: none;
+}
